@@ -8,3 +8,4 @@ dependencies:
   - pillow>=10.0.0
   - matplotlib>=3.7.0
   - scikit-learn=1.4.0
+  - seaborn=0.12
